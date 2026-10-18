@@ -1,12 +1,19 @@
 body {
-    background-color: rgb(149, 224, 134);
+    background-color: #450f0f;
 
 }
 
 h1 {
-    color:white
+    color:#E1BB80;
+    font-family:monospace
 }
 
 h2 {
-    color:white
-} 
+    background-color: #511212;
+    box-shadow: 10px 2px #390c0c;
+    color:#243E36;
+    font-family:monospace;
+    font-size: 20px;
+}
+
+ 
